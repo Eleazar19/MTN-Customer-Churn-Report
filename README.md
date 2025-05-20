@@ -46,10 +46,10 @@ Used the combination of basic and advanced analytical techniques to dip deep int
 
 - The business should conduct further investigation to find out the factors causing customer churn for each state, then propound permanent solutions to tackle and resolve these factors causing customer churn per state. Once this is done, customer churn will definitely be handled which stabilizes revenue. 
 
-- To increase the number of data bundle purchased by customers, a strategy of buy four data dandle’s and pay half the price of the data bundle on the fifth purchase within the same month (March). This will help in increasing the number of data purchases and also having a positive impact on revenue.  
+- Offer attractive bundled deals that combine voice, SMS, and data, creating more value and encouraging larger purchases, which addresses the revenue drop experienced in March.
 
 - The sales team should pay close attention to customers using Broadband MiFi and Mobile SIM Card making sure the customers are retained in addition to their high data purchases. 
 
  ## Conclusion
 
-Having successfully discovered the key cause of customer churn, the business should act quickly in tackling this in other to prevent further loss of her loyal customers.  
+Having successfully discovered the key cause of customer churn and other problems affecting revenue, the business should act quickly in tackling these areas of concern inother to prevent further loss of her loyal customers-maintaining a stable reveune inflow.  
